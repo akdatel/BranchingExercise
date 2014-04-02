@@ -1,0 +1,2 @@
+some new file to test if the Commit will be done when merging with the "No Commit" check
+AND there are no conflicts (with fast-forward by default).
