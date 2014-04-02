@@ -1,2 +1,9 @@
 some new file to test if the Commit will be done when merging with the "No Commit" check
 AND there are no conflicts (with fast-forward by default).
+
+
+==> OK, the above resulted in empty Commit dialog, because a FF-merge has nothing to commit after the merge, it just moves the "pointer" of the current branch to where the branch being merged into the current one points :).
+
+
+
+.... Now merge again, (again a small, ff change only) BUT this time check the "No Fast Forward" check too!
